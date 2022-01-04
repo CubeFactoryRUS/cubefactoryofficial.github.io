@@ -1,0 +1,53 @@
+#head_text {
+	color: #ffffff;
+	font-size: 28px;
+	font-weight: bold;
+	font-family: 'Montserrat', century gothic;
+}
+
+#head_link {
+	color: #ffcc99;
+	text-decoration: none;
+	padding: 15px 20px;
+	font-size: 15px;
+	font-weight: bold;
+	font-family: 'Montserrat', century gothic;
+}
+
+#foot {
+	color: #999999;
+	font-size: 15px;
+	font-family: 'Montserrat', century gothic;
+}
+
+#simple_link {
+	color: #ffaa35;
+	font-size: 20px;
+	font-family: 'Montserrat', century gothic;
+	text-align: justify;
+}
+
+#simple_text {
+	color: #e0e0e0;
+	font-size: 14px;
+	line-height: 25px;
+	font-family: 'Montserrat', century gothic;
+	text-align: justify;
+}
+
+#sublink {
+	color: #ffcc99;
+	font-size: 14px;
+	line-height: 25px;
+	font-family: 'Montserrat', century gothic;
+	text-align: justify;
+}
+
+#img {
+	left: 20%;
+	width: 100%;
+}
+
+#line {
+	width: 40%;
+}
